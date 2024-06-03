@@ -15,7 +15,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <head>
         <title>extApp davidramos13</title>
-        <meta name="google-site-verification" content="TCME6H0F5mFBSXuNH-MVcv6Upzaq04N5VKTP05jmpuk" />
+        <meta name="google-site-verification" content="8IGageq6mokwXb4Pm8Pl5nbEQmibGk9HO4rdbogAu5I" />
       </head>
       <body className={inter.className}>
         <Header />
