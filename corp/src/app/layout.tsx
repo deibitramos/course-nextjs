@@ -13,6 +13,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        <title>Course NextApp davidramos13</title>
+        <meta name="google-site-verification" content="TCME6H0F5mFBSXuNH-MVcv6Upzaq04N5VKTP05jmpuk" />
+      </head>
       <body className={inter.className}>
         <Header />
         {children}
